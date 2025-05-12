@@ -25,7 +25,7 @@ To develop a robust model that:
 
 ## Sample Insights
 
-- Certain routes exhibit predictable seasonal demand spikes—price adjustments during peak seasons can boost yield by 15–20%.
+- Certain routes exhibit predictable seasonal demand spikes—price adjustments during peak seasons can boost yield by 8-10%.
 - Price elasticity varies significantly by customer segment—suggesting tailored pricing can enhance competitiveness.
 - Low-demand routes were identified for strategic review or promotional efforts.
 
